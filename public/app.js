@@ -1,6 +1,6 @@
 var socket = io();
 var screen = [1920, 1080]
-var size = 30 //size in px
+var size = 35 //size in px
 socket.on('drop', function(user){
   old = document.getElementById(user.username)
   if (old) {
