@@ -1,5 +1,5 @@
 # drop-game
-This is a Twitch Game for my Twitch Streams, so my viewers can type '!drop me' in the chat to watch their profile picture fall down on the stream
+This is a Twitch Game for Twitch Streams, so the viewers can type '!drop me' in the chat to watch their profile picture fall down on the stream
 
 ## How to use it:
 ```
