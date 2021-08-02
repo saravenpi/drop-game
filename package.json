@@ -1,0 +1,32 @@
+{
+  "name": "drop-game",
+  "version": "1.0.0",
+  "description": "a cool twitch asset game for the chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "nodemon server/index.js"
+  },
+  "keywords": [
+    "drop",
+    "game",
+    "twitch"
+  ],
+  "author": "saravenpi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.8.0",
+    "canvas-constructor": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "socket.io": "^4.1.3",
+    "tmi.js": "^1.8.3",
+    "ws": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
