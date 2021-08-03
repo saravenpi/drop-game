@@ -1,5 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Righteous:400,700);
-
+body {
+  width: 1920px;
+  height: 1080px;
+}
 .drop {
   width: 35px;
   opacity: 0.85;
